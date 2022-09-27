@@ -1,0 +1,3 @@
+[submodule "GNN-logic"]
+	path = GNN-logic
+	url = https://github.com/juanpablos/GNN-logic.git
